@@ -1,0 +1,88 @@
+Program Version,EnergyPlus, Version 25.1.0-1c11a3d85f, YMD=2025.10.20 22:24
+1,5,Environment Title[],Latitude[deg],Longitude[deg],Time Zone[],Elevation[m]
+2,8,Day of Simulation[],Month[],Day of Month[],DST Indicator[1=yes 0=no],Hour[],StartMinute[],EndMinute[],DayType
+3,5,Cumulative Day of Simulation[],Month[],Day of Month[],DST Indicator[1=yes 0=no],DayType  ! When Daily Report Variables Requested
+4,2,Cumulative Days of Simulation[],Month[]  ! When Monthly Report Variables Requested
+5,1,Cumulative Days of Simulation[] ! When Run Period Report Variables Requested
+6,1,Calendar Year of Simulation[] ! When Annual Report Variables Requested
+7,9,Environment,Site Outdoor Air Drybulb Temperature [C] !Monthly [Value,Min,Day,Hour,Minute,Max,Day,Hour,Minute]
+8,1,CUBO,Zone Air Temperature [C] !Hourly
+9,1,CUBO,Zone Air Relative Humidity [%] !Hourly
+End of Data Dictionary
+1,RUN PERIOD 1,  18.85, -99.14,  -6.00,1280.00
+2,1, 5,15, 0, 1, 0.00,60.00,Monday
+8,18.658115793439535
+9,34.69874700274019
+2,1, 5,15, 0, 2, 0.00,60.00,Monday
+8,18.722800500151102
+9,34.55864172408841
+2,1, 5,15, 0, 3, 0.00,60.00,Monday
+8,18.824986100839315
+9,34.33850749031097
+2,1, 5,15, 0, 4, 0.00,60.00,Monday
+8,18.91705818486071
+9,34.14149625263608
+2,1, 5,15, 0, 5, 0.00,60.00,Monday
+8,18.994084748284997
+9,33.97765332492721
+2,1, 5,15, 0, 6, 0.00,60.00,Monday
+8,19.055949694924085
+9,33.84670202418821
+2,1, 5,15, 0, 7, 0.00,60.00,Monday
+8,19.1044336472787
+9,33.74447127678659
+2,1, 5,15, 0, 8, 0.00,60.00,Monday
+8,19.14066271036782
+9,33.66830737517845
+2,1, 5,15, 0, 9, 0.00,60.00,Monday
+8,19.165745545298964
+9,33.615689911012566
+2,1, 5,15, 0,10, 0.00,60.00,Monday
+8,19.179877386103062
+9,33.586085896533426
+2,1, 5,15, 0,11, 0.00,60.00,Monday
+8,19.18459555446937
+9,33.5762083024928
+2,1, 5,15, 0,12, 0.00,60.00,Monday
+8,19.180768495296395
+9,33.58421988038838
+2,1, 5,15, 0,13, 0.00,60.00,Monday
+8,19.169359019281558
+9,33.6081169441759
+2,1, 5,15, 0,14, 0.00,60.00,Monday
+8,19.15052627764779
+9,33.64760401759418
+2,1, 5,15, 0,15, 0.00,60.00,Monday
+8,19.125347118101384
+9,33.70047852284986
+2,1, 5,15, 0,16, 0.00,60.00,Monday
+8,19.093990029557272
+9,33.76645770224429
+2,1, 5,15, 0,17, 0.00,60.00,Monday
+8,19.056988399768134
+9,33.8444990717804
+2,1, 5,15, 0,18, 0.00,60.00,Monday
+8,19.01523259583853
+9,33.93281183786025
+2,1, 5,15, 0,19, 0.00,60.00,Monday
+8,18.969150419184142
+9,34.03057435119843
+2,1, 5,15, 0,20, 0.00,60.00,Monday
+8,18.919070047620448
+9,34.13717920868984
+2,1, 5,15, 0,21, 0.00,60.00,Monday
+8,18.865306088779434
+9,34.25204250813579
+2,1, 5,15, 0,22, 0.00,60.00,Monday
+8,18.808787791492453
+9,34.373257609043385
+2,1, 5,15, 0,23, 0.00,60.00,Monday
+8,18.749409139979026
+9,34.501127842727264
+2,1, 5,15, 0,24, 0.00,60.00,Monday
+8,18.68718278500306
+9,34.63570428724966
+4,1, 5
+7,23.834027777777777,22.4,15,24,30,25.4,15, 1,10
+End of Data
+ Number of Records Written=          49
